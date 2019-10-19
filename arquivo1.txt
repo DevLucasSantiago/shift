@@ -7,3 +7,7 @@ Outra alteração para comparar commits...
 Uma linha depois...
 
 Uma nova alteração para comparar commits
+
+Stash
+
+22

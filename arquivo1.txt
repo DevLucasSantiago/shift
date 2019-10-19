@@ -11,3 +11,5 @@ Uma nova alteração para comparar commits
 Stash
 
 22
+
+Esta linha originou-se na branch dev...
